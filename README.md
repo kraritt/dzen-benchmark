@@ -1,1 +1,1 @@
-# dzen-benchmark
+This is the initial repository for the work DZEN LLM benchmark.
